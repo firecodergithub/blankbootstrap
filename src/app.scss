@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css?family=Gayathri&display=swap");
+@import "~bootstrap/scss/bootstrap";
+$font:'Gayathri',sans-serif;
+
+body {
+    font-family: $font
+}
+
+header, footer {
+    background-color: #333;
+    color: #ddd;
+    padding: 20px;
+    text-align: center;
+
+}
